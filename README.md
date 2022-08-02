@@ -41,3 +41,13 @@ validations on age and sgpa. Display appropriate messages in pop up boxes to ind
 wrong entries, on clicking of the “compute” button. Also find the cgpa based on the
 obtained sgpa. On clicking of the “done” button, place the student details in a
 collection. A click on the “display” button should display the collection in a textarea.
+
+
+4. Write a java program using swings to validate user login information using dialog
+boxes. Once validated, allow the user to enter the customer id, if the person is a new
+customer, else check whether the customer exists in a collection and obtain the
+customer id. The customer id can be obtained given a mobile number. Allow the user
+to enter the item purchased by giving the item id and quantity purchased. On clicking
+of a button, the item name and the total cost should appear in the corresponding GUI
+components. Using option dialog box, indicate the types of discount available for the
+customer. On clicking on the print button, print the details in information dialog box.
